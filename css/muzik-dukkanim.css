@@ -1,0 +1,38 @@
+ul li{
+    text-align: center;
+    list-style-position: inside;
+}
+body{
+    background-color: #E9ECEF;
+}
+h1{
+    text-align: center;
+}
+
+h3 {
+    
+    color: #ffc93c;
+}    
+div{
+    text-align: center;
+    
+}
+/* özel sınıflar */
+.price-bg{
+    display: inline;
+    background-color: grey;
+    float: left;
+    border-radius: 10%;
+}
+.prodocts-color{
+    color: blueviolet;
+}
+.nametag-color{
+    color: blue;
+}
+.text-place{
+    text-align: center;
+}
+
+
+
